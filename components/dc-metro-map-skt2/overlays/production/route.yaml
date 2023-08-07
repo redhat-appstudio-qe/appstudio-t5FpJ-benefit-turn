@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: dc-metro-map-skt2
     app.kubernetes.io/part-of: appstudio
-  name: dc-metro-map-skt2etot
+  name: dc-metro-map-skt2vrsi
 spec:
   port:
     targetPort: 8081
